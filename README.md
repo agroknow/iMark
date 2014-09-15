@@ -1,4 +1,4 @@
-nhm-crete
+iMark
 =========
 
-Natural History Museum of Crete
+Information Management Resource Kit
